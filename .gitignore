@@ -1,3 +1,2 @@
 # .gitignore
-hello-microverse/node_modules
-tes
+node_modules
