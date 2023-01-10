@@ -1,3 +1,3 @@
 # .gitignore
-hello-microverse/node_modules/*
+hello-microverse/node_modules
 test.md
