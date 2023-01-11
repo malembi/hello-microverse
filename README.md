@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 [Hello_Microverse] <a name="about-project">Hello microverse</a>
 
 > Describe your project in 1 or 2 sentences.
 
