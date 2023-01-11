@@ -59,11 +59,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello_Microverse] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello_Microverse]** is my first microverse project...
+**[Hello_Microverse]** is my first microverse project....
 
 ## 🛠 Built With <a name="built-with">html&css</a>
 
